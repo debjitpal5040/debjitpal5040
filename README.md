@@ -10,19 +10,19 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 - 💬 Ask me about any Interesting topic of Mathematics 
 - ⚡ Fun fact: I get lured mostly by Pure Mathematics and Theoretical Computer Science 
 
-<h2>Connect with me</h2>
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/debjitpal5040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/debjit-pal-539214192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/debjitpal5040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/debjitpal5040)  
 
-<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/debjitpal5040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/debjit-pal-539214192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/debjitpal5040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/debjitpal5040)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=debjitpal5040)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=debjitpal5040)  
 
-![Debjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true&theme=radical)
+![GitHub metrics](https://metrics.lecoq.io/debjitpal5040)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040&layout=compact)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040)  
+
+![Profile views](https://gpvc.arturio.dev/debjitpal5040)  
