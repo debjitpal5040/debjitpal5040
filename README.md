@@ -28,6 +28,6 @@ My name is Debjit Pal and I'm a Computer Science Engineering undergrad. I'm from
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-[![Debjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true&theme=radical)](https://github.com/debjitpal5040/github-readme-stats)
+![Debjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040&layout=compact)](https://github.com/debjitpal5040/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040&layout=compact)
