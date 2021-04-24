@@ -9,8 +9,10 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 - 🤔 I’m looking for help with Formal Language and Automata 
 - 💬 Ask me about any Interesting topic of Mathematics 
 - ⚡ Fun fact: I get lured mostly by Pure Mathematics and Theoretical Computer Science 
-
+## Connect me from below
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/debjitpal5040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/debjit-pal-539214192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/debjit.pal.18847)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/debjitpal5040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/debjitpal5040)  
+
+## Github Stats
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=debjitpal5040)
 
