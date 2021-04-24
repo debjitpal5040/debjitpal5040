@@ -1,28 +1,23 @@
-### Hi there 👋
+### Hi there 👋, My name is Debjit Pal
+#### I am a Computer Science Engineering Undergraduate Student
+I live in Dakshineswar, Kolkata, India.
+Currently I am studying B.Tech in CSE at Kalyani Government Engineering College (KGEC)
 
-<!--
-**debjitpal5040/debjitpal5040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is Debjit Pal and I'm a Computer Science Engineering undergrad. I'm from India, living in Daskshineswar, Kolkata and currently studying at Kalyani Government Engineering College.
+- 🔭 I’m currently working on iOS development 
+- 🌱 I’m currently learning Abstract Algebra and Graph Theory 
+- 👯 I’m looking to collaborate on Intermediate Python Projects 
+- 🤔 I’m looking for help with Formal Language and Automata 
+- 💬 Ask me about any Interesting topic of Mathematics 
+- ⚡ Fun fact: I get lured mostly by Pure Mathematics and Theoretical Computer Science 
 
 <h2>Connect with me</h2>
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/debjitpal5040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/debjit-pal-539214192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/debjitpal5040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/debjitpal5040)  
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debjitpal5040@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-pal-539214192/) 
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-ff90d8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debjitpal5040/) 
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=debjitpal5040)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
