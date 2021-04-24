@@ -15,14 +15,14 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=debjitpal5040)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040&theme=radical&layout=compact)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitpal5040&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=debjitpal5040)  
 
 ![GitHub metrics](https://metrics.lecoq.io/debjitpal5040)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/debjitpal5040)  
