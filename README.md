@@ -26,3 +26,5 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/debjitpal5040)  
+
+![Jokes Card](https://readme-jokes.vercel.app/api) |
