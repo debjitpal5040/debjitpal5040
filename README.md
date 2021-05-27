@@ -36,11 +36,12 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 <img align="left" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/>
 <br><br>
 
+
 ## My dream companies 😍
 
-<img align="left" alt="Apple" width="40px" src="https://seeklogo.com/images/A/Apple-logo-4DC2B05F7D-seeklogo.com.png"/>
-<img align="left" alt="Google" width="40px" src="https://seeklogo.com/images/G/google-2015-logo-65BBD07B01-seeklogo.com.png"/>
-<img align="left" alt="Microsoft" width="150px" src="https://seeklogo.com/images/M/microsoft-logo-B5C9E49146-seeklogo.com.png"/>
+<img align="left" alt="Apple" width="44px" src="https://seeklogo.com/images/A/Apple-logo-4DC2B05F7D-seeklogo.com.png"/>
+<img align="left" alt="Google" width="50px" src="https://seeklogo.com/images/G/google-2015-logo-65BBD07B01-seeklogo.com.png"/>
+<img align="left" alt="Microsoft" width="220px" src="https://seeklogo.com/images/M/microsoft-logo-B5C9E49146-seeklogo.com.png"/>
 <br><br>
 
 ## My Github Stats 📊
