@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Debjit Pal 😄
-#### I am a Computer Science Engineering Undergraduate Student 👨🏻‍💻
+#### I am an Undergraduate Computer Science Engineering Student 👨🏻‍💻
 I live in Dakshineswar, Kolkata, India 🇮🇳
 Currently I am studying B.Tech in CSE at Kalyani Government Engineering College (KGEC)
 - 🔭 I’m currently working on iOS development 
