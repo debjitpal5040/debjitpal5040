@@ -1,13 +1,13 @@
-### Hi there 👋, My name is Debjit Pal 😄
-#### I am an Undergraduate Computer Science Engineering Student 👨🏻‍💻
-I live in Dakshineswar, Kolkata, India 🇮🇳
-Currently I am studying B.Tech in CSE at Kalyani Government Engineering College (KGEC)
-- 🔭 I’m currently working on iOS development 
-- 🌱 I’m currently learning Abstract Algebra and Graph Theory 
-- 👯 I’m looking to collaborate on Intermediate Python Projects
-- 🤔 I’m looking for help with Formal Language and Automata 
-- 💬 Ask me about any Interesting topic of Mathematics and Algorithms
-- ⚡ Fun fact: I get lured mostly by Pure Mathematics and Theoretical Computer Science 
+### Hi there, I am Debjit Pal aka [debjitpal5040][website]👋
+## I'm a Student, Son and Developer!! 👨🏻‍💻
+I live in Dakshineswar, Kolkata, India 🇮🇳 <br>
+Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineering College (KGEC)
+- 🔭 I’m currently working on iOS and Android app development 
+- 🌱 I’m currently learning Automata and Advanced algorithms
+- 👯 I’m looking to collaborate on any Python/R/Swift Projects
+- 🤔 I’m looking for help with Machine Learning and Docker
+- 💬 Ask me about any topic of Mathematics and Algorithms
+- ⚡ Fun fact: My hobbies are swimming, cooking and playing cricket
 ## Let's Connect 🤝
 
 <a href="https://www.linkedin.com/in/debjit-pal-539214192">
@@ -23,7 +23,6 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
   <img align="left" alt="Debjit Pal - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 <br><br>
-
 
 ## My daily used techs 👨🏻‍💻 
 
@@ -50,4 +49,8 @@ Currently I am studying B.Tech in CSE at Kalyani Government Engineering College 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/debjitpal5040)  
+![](https://komarev.com/ghpvc/?username=debjitpal5040&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+
+
+
+[website]: https://debjitpal5040.github.io
