@@ -13,12 +13,6 @@ Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineer
 <a href="https://www.linkedin.com/in/debjit-pal-539214192">
   <img align="left" alt="Debjit Pal - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
-<a href="https://www.facebook.com/debjit.pal.18847">
-  <img align="left" alt="Debjit Pal - Facebook" width="45px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>
-</a>
-<a href="https://www.instagram.com/debjitpal5040">
-  <img align="left" alt="Debjit Pal - Instagram" width="45px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-</a>
 <a href="https://twitter.com/debjitpal5040">
   <img align="left" alt="Debjit Pal - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
