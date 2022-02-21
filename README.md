@@ -1,5 +1,13 @@
-### Hi there, I am Debjit Pal aka [debjitpal5040][website]👋
-## I'm a Student, Son and Developer!! 👨🏻‍💻
+## Hey there, I am [Debjit Pal](https://www.github.com/debjitpal5040) 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-pal-539214192)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/debjitpal5040)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/debjitpal5040)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-1778F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/debjit.pal.18847)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://debjitpal5040.github.io)
+
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=debjitpal5040&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+I'm a Student, Son and Developer!! 👨🏻‍💻 <br>
 I live in Dakshineswar, Kolkata, India 🇮🇳 <br>
 Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineering College (KGEC)
 - 🔭 I’m currently working on iOS and Android app development 
@@ -10,13 +18,7 @@ Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineer
 - ⚡ Fun fact: My hobbies are swimming, cooking and playing cricket
 ## Let's Connect 🤝
 
-<a href="https://www.linkedin.com/in/debjit-pal-539214192">
-  <img align="left" alt="Debjit Pal - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-<a href="https://twitter.com/debjitpal5040">
-  <img align="left" alt="Debjit Pal - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-</a>
-<br><br>
+
 
 ## My daily used techs 👨🏻‍💻 
 
@@ -43,8 +45,7 @@ Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineer
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040&theme=radical)  
 
-![](https://komarev.com/ghpvc/?username=debjitpal5040&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+![]
 
 
 
-[website]: https://debjitpal5040.github.io
