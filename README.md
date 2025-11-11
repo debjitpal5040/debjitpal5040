@@ -10,7 +10,8 @@
 <p align="center">
   I'm a Student, Son and Developer!! 👨🏻‍💻 <br>
 I live in Dakshineswar, Kolkata, India 🇮🇳 <br>
-Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineering College (KGEC)
+Currently I am working as a Data Engineer in Tata Consultancy Services <br>
+ I did my B.Tech in CSE (2019-2023) at Kalyani Government Engineering College (KGEC)
 </p>
 
 ## My current checkpoints
@@ -39,12 +40,8 @@ Currently I am studying B.Tech in CSE (2019-2023) at Kalyani Government Engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitpal5040&theme=react&layout=compact&count_private=false)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=debjitpal5040&theme=material-palenight)  
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=debjitpal5040&column=7&theme=tokyonight&no-frame=true)
 
 
-![GitHub metrics](https://metrics.lecoq.io/debjitpal5040)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=debjitpal5040&theme=radical)  
 
